@@ -21,10 +21,10 @@ Upcoming Model Data: Details regarding the growth and adoption of electric vehic
 
 ### Tools:
 ***
-Excel: Data Cleaning and Initial Analysis
-Python: Data Preparation and Statistical Analysis
-SQL Server: Data Querying and Integration
-Power BI: Visualization, Reporting, and Dashboard Creation
+*Excel: Data Cleaning and Initial Analysis
+*Python: Data Preparation and Statistical Analysis
+*SQL Server: Data Querying and Integration
+*Power BI: Visualization, Reporting, and Dashboard Creation
 
 
 ### Data Cleaning and Preparation
@@ -32,11 +32,11 @@ Power BI: Visualization, Reporting, and Dashboard Creation
 
 During the data preparation phase, the following tasks were undertaken:
 
-Loading and initial inspection of EV sales data.'
+- Loading and initial inspection of EV sales data.'
 
-Cleaning and formatting to handle missing values and ensure data integrity.
+- Cleaning and formatting to handle missing values and ensure data integrity.
 
-Transformation of raw data into structured formats suitable for analysis.
+- Transformation of raw data into structured formats suitable for analysis.
 
 ### EDA focused on extracting insights to address key questions in EV analytics:
 ***
@@ -65,11 +65,11 @@ SELECT model, SUM(units_sold) AS total_sales FROM ev_sales_data WHERE manufactur
 
 Key findings from the analysis include:
 
--Increasing adoption of GM Group's EV models, with notable growth in specific regions.
+- Increasing adoption of GM Group's EV models, with notable growth in specific regions.
 
--Popular models include the Chevrolet Bolt EUV and GMC Hummer EV.
+- Popular models include the Chevrolet Bolt EUV and GMC Hummer EV.
 
--Positive correlation between charging infrastructure expansion and EV sales.
+- Positive correlation between charging infrastructure expansion and EV sales.
 
 ### Recommendations
 ***
