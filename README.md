@@ -22,8 +22,11 @@ Upcoming Model Data: Details regarding the growth and adoption of electric vehic
 ### Tools:
 ***
 *Excel: Data Cleaning and Initial Analysis
+
 *Python: Data Preparation and Statistical Analysis
+
 *SQL Server: Data Querying and Integration
+
 *Power BI: Visualization, Reporting, and Dashboard Creation
 
 
